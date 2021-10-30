@@ -118,7 +118,7 @@ function App() {
                 ></iframe>
                 <div className="desc">
                   1 Minute Timer with Music for Kids! One Minute Calming
-                  Meditation Relaxing Music!
+                  Meditation 
                 </div>
               </li>
             </div>
