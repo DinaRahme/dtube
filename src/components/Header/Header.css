@@ -1,0 +1,33 @@
+
+  .App-header {
+    display: flex;
+    align-items: center;
+    font-size: calc(10px + 2vmin);
+    color: white;
+    height: 56px;
+    justify-content: space-between;
+  }
+  .logo-wrapper {
+    display: flex;
+    align-items: center;
+  }
+  .logo-wrapper img {
+    height: 45px;
+    padding-left: 1em;
+  }
+  
+  .tosearch {
+    z-index: 2;
+    width: 30em;
+    height: 3em;
+    pointer-events: none;
+    color: #aaa;
+  }
+  .sbtn {
+    background-color: lightgrey;
+    padding: 0.5em;
+  }
+  
+  .youravatar {
+    padding: 1em;
+  }
